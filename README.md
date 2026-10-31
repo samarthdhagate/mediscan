@@ -20,7 +20,12 @@ This project demonstrates how AI + Computer Vision can power **medicine identifi
 - 🔗 **Browser redirection** to trusted websites like Drugs.com
 
 ---
+# DevOps Capstone Project
 
+[![Build Status](https://github.com/samarthdhagate/mediscan/actions/workflows/ci-build.yaml/badge.svg)](https://github.com/samarthdhagate/mediscan/actions)
+
+## MediScan Account Management Microservice
+This repository contains the microservice implementation for the DevOps Capstone project, deployed on OpenShift/Kubernetes using Tekton CI/CD pipelines.
 ## 📂 Tech Stack
 
 - Python 3
